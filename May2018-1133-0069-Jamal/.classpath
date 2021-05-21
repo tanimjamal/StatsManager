@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Source Code/Start Manager Source Code/src"/>
+	<classpathentry kind="lib" path="Source Code/Start Manager Source Code/dist/Basketball_Stats_Manager.jar"/>
+	<classpathentry kind="lib" path="Source Code/Start Manager Source Code/dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="Source Code/Start Manager Source Code/lib/absolutelayout/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="Source Code/Start Manager Source Code/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="output" path="Source Code/Start Manager Source Code/build/classes"/>
+</classpath>
